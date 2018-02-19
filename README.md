@@ -1,5 +1,7 @@
 #Animal Trading Card
 
+![Caretta](caretta-caretta.jpg?raw=true);
+
 This is a card made with HTML an CSS and is part of the Front-End Web Developer nanodegree program at Udacity.
 
 ## Requirements
