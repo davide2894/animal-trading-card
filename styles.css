@@ -1,10 +1,6 @@
 /* add your CSS here */
-
-body {
-    font-family: 'Roboto Slab', serif;
-}
-
 .wrapper {
+    font-family: 'Roboto Slab', serif;
     max-width: 320px;
     border-radius: 6px;
     margin: 0 auto;
@@ -23,7 +19,7 @@ body {
     filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#f1e767', endColorstr='#fff4cb', GradientType=0);
 }
 
-h3 {
+.card-title {
     text-align: center;
     font-size: 2em;
 }
@@ -34,7 +30,7 @@ h3 {
     border-radius: 6px;
 }
 
-ul {
+.info-list {
     list-style: none;
     padding-left: 0;
 }

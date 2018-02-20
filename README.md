@@ -1,11 +1,11 @@
 # Animal Trading Card
 
-![Caretta-Caretta](./assets/caretta.png?raw=true)
+![Card](../assets/card.png?raw=true)
 
 This is a card made with HTML an CSS and is part of the Front-End Web Developer nanodegree program at Udacity.
 
 ## Requirements
-As per the [Project Rubric](https://review.udacity.com/#!/rubrics/151/view), the card must reflect the following requirements:
+As per the project rubric the card must reflect the following requirements:
 
 * The text is italicized for the animal’s interesting fact.
 * The labels are bolded for the animal’s list items.
