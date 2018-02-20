@@ -18,4 +18,4 @@ As per the project rubric the card must reflect the following requirements:
 After meeting these requirements, I personalized it a bit, check it out if you want, every feedback is more than welcome! 
 
 ## License
-The contents of this repository are covered under the [MIT License](./LICENSE?raw=true)
+The contents of this repository are covered under the [MIT License](/LICENSE?raw=true)
