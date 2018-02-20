@@ -1,6 +1,6 @@
 # Animal Trading Card
 
-![Card](../assets/card.png?raw=true)
+![Card](assets/card.png?raw=true)
 
 This is a card made with HTML an CSS and is part of the Front-End Web Developer nanodegree program at Udacity.
 
